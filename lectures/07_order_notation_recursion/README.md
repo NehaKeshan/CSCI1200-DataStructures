@@ -9,11 +9,11 @@
   - We are grading today and this weekend
   - We hope to release the Test 1 grades by Monday
  
-    HW3 is now available
+  HW3 is now available
 
-    Use office hours next week!
+  Use office hours next week!
 
-    Please use the discussion forum to ask questions rather than email to prof or TA -- there is a chance other students have the same question & you'll get a faster reply!
+  Please use the discussion forum to ask questions rather than email to prof or TA -- there is a chance other students have the same question & you'll get a faster reply!
 
 ## 7.1 Algorithm Analysis
 
@@ -21,6 +21,7 @@ Why should we bother?
  - We want to do better than just implementing and testing every idea we have.
  - We want to know why one algorithm is better than another.
  - We want to know the best we can do. (This is often quite hard.)
+   
 How do we do it? There are several options, including:
  - Don’t do any analysis; just use the first algorithm you can think of that works.
  - Implement and time algorithms to choose the best.
